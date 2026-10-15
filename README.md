@@ -12,7 +12,7 @@ Air Canvas is a Python-based project that allows users to draw in the air using 
 
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/mulgeomkar/Air-canvas.git
+git clone https://github.com/Bhanu1294/Air-canvas.git
 cd Air-canvas/canvas
 pip install -r requirements.txt
 ```
